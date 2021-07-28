@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">Be big on Deep learning. Doing CV research in NYCU now.</h3>
+<h3 align="center">Big fan of Deep learning. Doing CV research in NYCU now.</h3>
 
 - 🌱 I’m currently learning **React JS.**
 
