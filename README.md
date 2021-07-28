@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning pytorch from scratch](https://justin900429.github.io/posts/c060b6bd/)
+- [Explore drones using Tello EDU](https://justin900429.github.io/posts/b54fd6e8/)
+- [Data structure and algorithm](https://justin900429.github.io/posts/5fb65b1b/)
+- [Android Series](https://justin900429.github.io/posts/b34c5f8c/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
