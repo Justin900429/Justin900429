@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">Big fan of Deep learning. Doing CV research in NYCU now.</h3>
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **React JS.**(actually not)
 
 - 📝 I regularly write articles on [https://justin900429.github.io](https://justin900429.github.io)
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bokairuan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bokairuan/" height="30" width="40" /></a>
 <a href="https://medium.com/@justinruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@justinruan" height="30" width="40" /></a>
-<a href="https://justin900429.github.io/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justin900429.github.io/atom.xml" height="30" width="40" /></a>
+<a href="https://justin900429.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justin900429.github.io/atom.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
