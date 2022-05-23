@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **justin900429@gmail.com**
 
-- 📄 Know about my experiences [https://justin900429.github.io/about/resume.pdf](https://justin900429.github.io/about/resume.pdf)
 
 ### 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->
