@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">Big fan of Deep learning. Doing CV research in NYCU now.</h3>
 
-- 🌱 I’m currently learning **React JS.**
+- 🦀 I’m currently learning **Rust.**
 
 - 📝 I regularly write articles on [https://justin900429.github.io](https://justin900429.github.io)
 
