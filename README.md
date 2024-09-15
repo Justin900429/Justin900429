@@ -1,29 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">Big fan of Deep learning. Doing CV research in NYCU now.</h3>
 
 - 🦀 I’m currently learning **Rust.**
+- ~~📝 I regularly write articles on [https://justin900429.github.io](https://justin900429.github.io)~~ (Website Renewing)
+- 📫 How to reach me: **justin900429[at]gmail.com**
 
-- 📝 I regularly write articles on [https://justin900429.github.io](https://justin900429.github.io)
-
-- 💬 Ask me about **deep learning technique**
-
-- 📫 How to reach me **justin900429@gmail.com**
-
-
-### 📖 Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Learning pytorch from scratch](https://justin900429.github.io/posts/c060b6bd/)
-- [Explore drones using Tello EDU](https://justin900429.github.io/posts/b54fd6e8/)
-- [Data structure and algorithm](https://justin900429.github.io/posts/5fb65b1b/)
-- [Android Series](https://justin900429.github.io/posts/b34c5f8c/)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bokairuan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bokairuan/" height="30" width="40" /></a>
-<a href="https://medium.com/@justinruan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@justinruan" height="30" width="40" /></a>
-<a href="https://justin900429.github.io/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://justin900429.github.io/atom.xml" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hexo.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
