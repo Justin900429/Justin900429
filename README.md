@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Justin</h1>
+<h1 align="center">Hi, I'm Justin</h1>
 
-- 🦀 I’m currently learning **Rust.**
-- ~~📝 I regularly write articles on [https://justin900429.github.io](https://justin900429.github.io)~~ (Website Renewing)
+- 💡 I’m currently learning **triton.**
+- 📝 I regularly write articles on [https://justin900429.github.io](https://justin900429.github.io)
 - 📫 How to reach me: **justin900429[at]gmail.com**
 
 
